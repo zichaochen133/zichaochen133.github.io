@@ -18,7 +18,7 @@ roles:
   - key: ugrad
     name: 本科生 Undergraduate Students
   - key: collab
-    name: 合作者 Collaborators
+    name: 金主爸爸 Collaborators
 
 
 # Number of news stories on the front page.
